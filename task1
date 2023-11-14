@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Rakshitha protofolio</title>
+</head>
+
+<body>
+  <h1>Rakshitha</h1>
+  <div>
+    <h2>About me</h2>
+    <p> I am rakshitha student of brindavan college of engineering.Am from banglore. Am studying mca. My hobbies are
+      singing,dancing,and listining music. Music helps me to keep calm and it also helps me to keeps me fresh. I
+      complted my graduation in chikkamagluru.<br> my strenghth and weakness are my family.I am a self motivated person
+      and complete work under pressure and hard worker and versail in nature. I think that i am creative,strong and
+      punctual.These makes me unique in my personality. </p>
+  </div>
+  <h3>Skills</h3>
+  <ol>
+    <li>java</li>
+    <li>html</li>
+    <li>css</li>
+  </ol>
+  <ul>
+  <h3>Interests</h3>
+    <li>singing</li>
+    <li>dancing</li>
+    <li>listining music</li>
+  </ul>
+  <h3>Projects</h3>
+  <div>
+    <h2>yoga studio management</h2>
+    <p>This is a online platform where people can perform yoga online.This provides a space where people can perform
+      yoga through online.A dedicated cross platform mobile application can be developed.The application can be embedded
+      with debit/crtedit card online payment.The application can be expanded with diffrent modules and features.</p>
+  </div>
+  <h3>contact infornation</h3>
+  <p>email:rakshithasr.skp@gmail.com</p>
+  <a href="https://www.linkedin.com/in/rakshitha-sr-382439215?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"target="_blank"> Go to linkdin profile</a>
+</body>
+</html>
